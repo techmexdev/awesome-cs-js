@@ -16,7 +16,8 @@ Covers:
 - Further Learning
 - Coding Challenges
 - JS Fundamentals Workshop
-- Advanced Javascript Knowledge  
+- Advanced Javascript Knowledge 
+
 ---  
 
 ### [Mnemonist](https://github.com/Yomguithereal/mnemonist)  
@@ -38,6 +39,7 @@ Covers:
 - SymSpell
 - Trie
 - Vantage Point Tree  
+
 ---  
 
 ### [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  
@@ -46,6 +48,7 @@ Covers:
 - Creational design pattern
 - Structural design pattern
 - Behavioral design pattern  
+
 ---  
 
 ### [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)   
@@ -59,6 +62,7 @@ Covers:
 - Doubly Linked List
 - Linked List
 - Selection Sort  
+
 --- 
 
 ### [awesome-js](https://github.com/ggomaeng/awesome-js)  
@@ -74,6 +78,7 @@ Algorithms
 - Replacing Substring
 - Move Zeroes
 - Singles  
+
 ---
 
 ### [computer-science](https://github.com/davidshariff/computer-science)  
