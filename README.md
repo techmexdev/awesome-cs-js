@@ -16,7 +16,7 @@ Covers:
 - Further Learning
 - Coding Challenges
 - JS Fundamentals Workshop
-- Advanced Javascript Knowledge
+- Advanced Javascript Knowledge  
 ---  
 
 ### [Mnemonist](https://github.com/Yomguithereal/mnemonist)  
@@ -37,7 +37,7 @@ Covers:
 - Generalized Suffix Array
 - SymSpell
 - Trie
-- Vantage Point Tree
+- Vantage Point Tree  
 ---  
 
 ### [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  
@@ -45,7 +45,7 @@ Covers:
 Covers:
 - Creational design pattern
 - Structural design pattern
-- Behavioral design pattern
+- Behavioral design pattern  
 ---  
 
 ### [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)   
@@ -58,7 +58,7 @@ Covers:
 - Credit Card Number Validation 
 - Doubly Linked List
 - Linked List
-- Selection Sort
+- Selection Sort  
 --- 
 
 ### [awesome-js](https://github.com/ggomaeng/awesome-js)  
@@ -73,7 +73,7 @@ Algorithms
 - Reordering Objects in an Array
 - Replacing Substring
 - Move Zeroes
-- Singles
+- Singles  
 ---
 
 ### [computer-science](https://github.com/davidshariff/computer-science)  
