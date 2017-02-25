@@ -35,3 +35,49 @@ Covers:
 - SymSpell
 - Trie
 - Vantage Point Tree
+
+[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Ultra-simplified explanation to design patterns.
+Covers:
+- Creational design pattern
+- Structural design pattern
+- Behavioral design pattern
+
+[computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) - CS paradigms, algorithms, and approaches 
+Covers:
+- Base64 Encoding 
+- Binary Search
+- Binary Search Tree
+- Bubble Sort
+- Credit Card Number Validation 
+- Doubly Linked List
+- Linked List
+- Selection Sort
+
+[](https://github.com/ggomaeng/awesome-js) - Fundamentals and algorithms
+Covers:
+- Objects
+- Prototypes
+Algorithms
+- String Palindrome
+- Square Root
+- Flattening Array
+- Reordering Objects in an Array
+- Replacing Substring
+- Move Zeroes
+- Singles
+
+[computer-science](https://github.com/davidshariff/computer-science) - Fundamental data structures and algorithms everybody should know.
+Covers:
+Data Structures
+- Binary Trees
+- Doubly Linked Lists
+- HashTables
+- MaxHeaps
+- Queues
+- Singly Linked Lists
+- Stacks
+- Tries
+Sorting Algorithms
+- Binary Search
+- Merge Sort
+- Quick Sort
