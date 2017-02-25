@@ -17,6 +17,7 @@ Covers:
 - Coding Challenges
 - JS Fundamentals Workshop
 - Advanced Javascript Knowledge
+---  
 
 ### [Mnemonist](https://github.com/Yomguithereal/mnemonist)  
 #### Data Structures  
@@ -37,6 +38,7 @@ Covers:
 - SymSpell
 - Trie
 - Vantage Point Tree
+---  
 
 ### [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  
 #### Ultra-simplified explanation to design patterns.  
@@ -44,6 +46,7 @@ Covers:
 - Creational design pattern
 - Structural design pattern
 - Behavioral design pattern
+---  
 
 ### [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)   
 #### CS paradigms, algorithms, and approaches   
@@ -56,6 +59,7 @@ Covers:
 - Doubly Linked List
 - Linked List
 - Selection Sort
+--- 
 
 ### [awesome-js](https://github.com/ggomaeng/awesome-js)  
 #### Fundamentals and algorithms  
@@ -70,6 +74,7 @@ Algorithms
 - Replacing Substring
 - Move Zeroes
 - Singles
+---
 
 ### [computer-science](https://github.com/davidshariff/computer-science)  
 #### Fundamental data structures and algorithms everybody should know.  
