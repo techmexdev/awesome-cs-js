@@ -17,3 +17,21 @@ Covers:
 - JS Fundamentals Workshop
 - Advanced Javascript Knowledge
 
+[Mnemonist](https://github.com/Yomguithereal/mnemonist) - Data Structures
+Covers:
+- Burkhard-Keller Tree
+- Bloom Filter
+- Fibonacci Heap
+- Heap
+- Index
+- Linked List
+- MultiIndex
+- MultiMap
+- MultiSet
+- Queue
+- Stack
+- Suffix Array
+- Generalized Suffix Array
+- SymSpell
+- Trie
+- Vantage Point Tree
